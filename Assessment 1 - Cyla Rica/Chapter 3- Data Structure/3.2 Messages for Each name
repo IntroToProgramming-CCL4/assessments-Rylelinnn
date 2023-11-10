@@ -1,0 +1,7 @@
+# Define a list of names
+names = ["Tisha", "Andy", "Jace", "Gerrad", "Angelo"]
+
+# Print personalized messages for each person
+for name in names:
+    message = f"Hello, {name}! Have a great day."
+    print(message)

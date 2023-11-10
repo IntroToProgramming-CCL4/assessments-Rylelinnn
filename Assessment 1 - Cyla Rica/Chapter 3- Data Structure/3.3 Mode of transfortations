@@ -1,0 +1,6 @@
+# Define a list of favorite modes of transportation
+transportation_modes = ["Hyundai Staria", "Tesla car", "Ducati", "Ford Mustang car", "BMW"]
+
+# Print statements about these transportation modes
+for mode in transportation_modes:
+    print(f"I would like to own a {mode}.")
